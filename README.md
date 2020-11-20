@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/-Lucas%20Ferreira-blue?style=round-square&labelColor=white&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/lucas-ferreira-210629198/"/>
 </a>
 <a href="https://steamcommunity.com/profiles/76561198047673262">
-    <img src="https://img.shields.io/badge/-steam-black?style=round-square&labelColor=darkblue&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198047673262"/>
+    <img src="https://img.shields.io/badge/-steam-gray?style=round-square&labelColor=white&logo=Steam&logoColor=black&link=https://steamcommunity.com/profiles/76561198047673262"/>
 </a>
 <a href="https://www.facebook.com/lucas.ferreira.501598">
     <img src="https://img.shields.io/badge/-Lucas%20Ferreira-blue?style=round-square&labelColor=white&logo=facebook&logoColor=blue&link=https://www.facebook.com/lucas.ferreira.501598"/>
