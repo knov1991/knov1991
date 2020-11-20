@@ -3,7 +3,7 @@
 <!-- [![](https://img.shields.io/badge/-Lucas%20Ferreira-black?style=round-square&labelColor=black&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/lucas-ferreira-210629198/)](https://www.linkedin.com/in/lucas-ferreira-210629198/)
 [![](https://img.shields.io/badge/-steam-black?style=round-square&labelColor=darkblue&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198047673262)](https://steamcommunity.com/profiles/76561198047673262) -->
 
-![](https://github.com/knov1991/knov1991/blob/main/img/developer.png)
+![](https://github.com/knov1991/knov1991/blob/master/img/developer.png)
 
 * 🧐    Interested in full stack. Recent focus on backend.
 * 🚀	Full-stack Developer on: [Prefeitura de Patos de Minas](https://patosdeminas.mg.gov.br/portal/)
