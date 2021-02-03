@@ -13,9 +13,8 @@
 * ⛵    Encouraging people for open source collaborations.
 
 <hr>
-<p align="center">
-<h2>Contact Me</h2>
-</p>
+<h2 align="center">Contact Me</h2>
+
 <p align="center">
 <a href="mailto:lucasf1991@hotmail.com?">
     <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=round-square&logo=gmail&logoColor=white"/>
