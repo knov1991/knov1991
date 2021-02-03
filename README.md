@@ -14,6 +14,9 @@
 
 <hr>
 <p align="center">
+## Contact Me
+</p>
+<p align="center">
 <a href="mailto:lucasf1991@hotmail.com?">
     <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=round-square&logo=gmail&logoColor=white"/>
 </a>
