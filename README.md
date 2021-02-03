@@ -14,7 +14,7 @@
 
 <hr>
 <p align="center">
-## Contact Me
+<h2>Contact Me</h2>
 </p>
 <p align="center">
 <a href="mailto:lucasf1991@hotmail.com?">
