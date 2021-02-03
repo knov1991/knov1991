@@ -14,11 +14,11 @@
 
 <hr>
 <p align="center">
-<a href="https://www.linkedin.com/in/lucas-ferreira-210629198/">
-    <img src="https://img.shields.io/badge/-Lucas%20Ferreira-blue?style=round-square&labelColor=white&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/lucas-ferreira-210629198/"/>
-</a>
 <a href="mailto:lucasf1991@hotmail.com?">
     <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=round-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/lucas-ferreira-210629198/">
+    <img src="https://img.shields.io/badge/-Lucas%20Ferreira-blue?style=round-square&labelColor=white&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/lucas-ferreira-210629198/"/>
 </a>
 </p>
 
