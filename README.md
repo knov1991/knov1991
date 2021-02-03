@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=round-square&logo=gmail&logoColor=white"/>
 </a> -->
 <a href="mailto:lucasf1991@hotmail.com?">
-    <img src="https://img.shields.io/badge/-E-mail-0072C6.svg?&style=round-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-0072C6.svg?&style=round-square&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/lucas-ferreira-210629198/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=round-square&labelColor=white&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/lucas-ferreira-210629198/"/>
