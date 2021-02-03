@@ -8,7 +8,7 @@
 * 🧐    Interested in full stack. Recent focus on backend.
 * 🚀	Full-stack Developer on: [Prefeitura de Patos de Minas](https://patosdeminas.mg.gov.br/portal/)
 * 🎓	Bachelor's Degree in Engineering Mechatronics: [BSTU](http://belgstu.com)
-* 🎓	Bachelor Student in Information Systems: [UNIPAM](http://unipam.edu.br)
+* 🎓	Undergraduate Degree in Information Systems: [UNIPAM](http://unipam.edu.br)
 * 🌱 	Currently learning : [Laravel](https://laravel.com)
 * ⛵    Encouraging people for open source collaborations.
 
