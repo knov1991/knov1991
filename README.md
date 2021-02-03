@@ -7,8 +7,8 @@
 
 * 🧐    Interested in full stack. Recent focus on backend.
 * 🚀	Full-stack Developer on: [Prefeitura de Patos de Minas](https://patosdeminas.mg.gov.br/portal/)
-* 🎓	Bachelor of Engineering Mechatronics in: [BSTU](http://belgstu.com)
-* 🎓	Bachelor Student of Information Systems in: [UNIPAM](http://unipam.edu.br)
+* 🎓	Bachelor's Degree in Engineering Mechatronics: [BSTU](http://belgstu.com)
+* 🎓	Bachelor Student in Information Systems: [UNIPAM](http://unipam.edu.br)
 * 🌱 	Currently learning : [Laravel](https://laravel.com)
 * ⛵    Encouraging people for open source collaborations.
 
@@ -17,6 +17,12 @@
 <a href="https://www.linkedin.com/in/lucas-ferreira-210629198/">
     <img src="https://img.shields.io/badge/-Lucas%20Ferreira-blue?style=round-square&labelColor=white&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/lucas-ferreira-210629198/"/>
 </a>
+<a href="mailto:lucasf1991@hotmail.com?">
+    <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=round-square&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
 <a href="https://steamcommunity.com/profiles/76561198047673262">
     <img src="https://img.shields.io/badge/-steam-gray?style=round-square&labelColor=white&logo=Steam&logoColor=black&link=https://steamcommunity.com/profiles/76561198047673262"/>
 </a>
