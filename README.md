@@ -20,19 +20,19 @@
     <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=round-square&logo=gmail&logoColor=white"/>
 </a> -->
 <a href="mailto:lucasf1991@hotmail.com?">
-    <img src="https://img.shields.io/badge/hotmail-0072C6.svg?&style=round-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-E-mail-0072C6.svg?&style=round-square&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/lucas-ferreira-210629198/">
-    <img src="https://img.shields.io/badge/-Lucas%20Ferreira-blue?style=round-square&labelColor=white&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/lucas-ferreira-210629198/"/>
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=round-square&labelColor=white&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/lucas-ferreira-210629198/"/>
 </a>
 </p>
 
 <p align="center">
 <a href="https://steamcommunity.com/profiles/76561198047673262">
-    <img src="https://img.shields.io/badge/-steam-gray?style=round-square&labelColor=white&logo=Steam&logoColor=black&link=https://steamcommunity.com/profiles/76561198047673262"/>
+    <img src="https://img.shields.io/badge/-Steam-gray?style=round-square&labelColor=white&logo=Steam&logoColor=black&link=https://steamcommunity.com/profiles/76561198047673262"/>
 </a>
 <a href="https://www.facebook.com/lucas.ferreira.501598">
-    <img src="https://img.shields.io/badge/-Lucas%20Ferreira-blue?style=round-square&labelColor=white&logo=facebook&logoColor=blue&link=https://www.facebook.com/lucas.ferreira.501598"/>
+    <img src="https://img.shields.io/badge/-Facebook-blue?style=round-square&labelColor=white&logo=facebook&logoColor=blue&link=https://www.facebook.com/lucas.ferreira.501598"/>
 </a>
 </p>
 
