@@ -9,7 +9,7 @@
 * 🚀	Full-stack Developer on: [Prefeitura de Patos de Minas](https://patosdeminas.mg.gov.br/portal/)
 * 🎓	Bachelor's Degree in Engineering Mechatronics: [BSTU](http://belgstu.com)
 * 🎓	Studying towards a bachelor's degree in Information Systems: [UNIPAM](http://unipam.edu.br)
-* 🌱 	Currently learning : [Laravel](https://laravel.com)
+* 🌱 	Currently learning : [JavaScript](https://javascript.com)
 * ⛵    Encouraging people for open source collaborations.
 
 <hr>
