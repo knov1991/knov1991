@@ -3,10 +3,12 @@
 <!-- [![](https://img.shields.io/badge/-Lucas%20Ferreira-black?style=round-square&labelColor=black&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/lucas-ferreira-210629198/)](https://www.linkedin.com/in/lucas-ferreira-210629198/)
 [![](https://img.shields.io/badge/-steam-black?style=round-square&labelColor=darkblue&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198047673262)](https://steamcommunity.com/profiles/76561198047673262) -->
 
-* 🧐    Interested in full stack. Recent focus on backend.
-* 😄    Most loved language : [Python](http://python.org)
+* 🧐    Interested in Fullstack Development.
+* 😄    Main skills !Back-end!
+* 🤯    Struggle with Front-end skills...
+* ❤️    Most loved language : [Python](http://python.org) (*Scraping - Botting*)
 * 🌱 	Currently learning : [Solidity](https://docs.soliditylang.org/)
-* 🚀	-----
+* 🚀	Most recent project: E-commerce + blockchain(in progress).
 * 🌍    Encouraging people for open source collaborations.
 
 <div>
