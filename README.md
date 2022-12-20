@@ -24,7 +24,7 @@
 * 🤯    Struggle with Front-end skills...
 * ❤️    Most loved language : [Python](http://python.org) (*Scraping - Botting*)
 * 🌱 	Currently learning : [Solidity](https://docs.soliditylang.org/)
-* 🚀	Most recent project: E-commerce + blockchain(in progress).
+* 🚀	Most recent project: Rolling Dices - Platform to play D&D.
 * 🌍    Encouraging people for open source collaborations.
 
 <div>
