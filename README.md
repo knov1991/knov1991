@@ -4,7 +4,7 @@
         <!-- <a href="mailto:lucasf1991@hotmail.com">
             <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
         </a> -->
-        <a href="mailto:lucasf1991@hotmail.com?">
+        <a href="mailto:lucasf1991@hotmail.com">
             <img src="https://img.shields.io/badge/-Email-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
         </a>
         <a href="https://www.linkedin.com/in/lucas-ferreira-210629198/">
