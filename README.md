@@ -22,8 +22,8 @@
 * 🧐    Backend Engineer
 * ❤️    Most loved "language" : [Python](http://python.org)
 * 🌱 	Currently learning : [LangChain](https://www.langchain.com/)
-* 🚀	Actual spare time projects: Webscraping for some browser games using requests and playwright.
-          -
+* 🚀	Founding my own company with my partner!
+* 🤖    Actual spare time projects: Developing bots for some online games and browser games (threading, pymem, requests, playwright, opencv-python, easyorc)
 * 🌍    Encouraging people for open source collaborations.
 
 <div>
