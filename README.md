@@ -20,11 +20,11 @@
 </div>
 
 * 🧐    Interested in Fullstack Development.
-* 😄    Main skills !Back-end!
-* 🤯    Struggle with Front-end skills...
+* 😄    Main skills !Backend!
+* 🤯    Struggle with Frontend skills...
 * ❤️    Most loved "language" : [Python](http://python.org)
-* 🌱 	Currently learning : [NodeRED](https://nodered.org)
-* 🚀	Most recent project(freelancer/study): Web application to manage an auto parts company and generate NFe (Stack: Node.js, Typescript, MySQL, Docker, React or Angular)
+* 🌱 	Currently learning : [LangChain]([https://nodered.org](https://www.langchain.com/))
+* 🚀	Most recent project(freelancer): Web application to manage an auto parts company and generate NFe (Stack: Node.js, Typescript, MySQL, Docker, React or Angular)
 * 🌍    Encouraging people for open source collaborations.
 
 <div>
