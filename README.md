@@ -22,7 +22,7 @@
 * 🧐    Interested in Fullstack Development.
 * 😄    Main skills !Back-end!
 * 🤯    Struggle with Front-end skills...
-* ❤️    Most loved "languages" : [Node.js](https://nodejs.org) and [Python](http://python.org)
+* ❤️    Most loved "language" : [Python](http://python.org)
 * 🌱 	Currently learning : [NodeRED](https://nodered.org)
 * 🚀	Most recent project(freelancer/study): Web application to manage an auto parts company and generate NFe (Stack: Node.js, Typescript, MySQL, Docker, React or Angular)
 * 🌍    Encouraging people for open source collaborations.
